@@ -2,7 +2,7 @@ package tivan
 
 import (
 	. "time"
-	"tivan/plugins"
+	"github.com/YangShuting/tivan/plugins"
 	"os"
 	"sort"
 	"github.com/influxdb/influxdb/client"
